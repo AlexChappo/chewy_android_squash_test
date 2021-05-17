@@ -1,0 +1,35 @@
+{
+    "elems": {
+        "iter_00000_step_00005_25_android.widget.ImageView.png": [
+            "lnk_ultra_litter"
+        ], 
+        "iter_00000_step_00007_31_android.widget.TextView.png": [
+            "lnk_brand"
+        ], 
+        "iter_00000_step_00009_20_android.view.ViewGroup.png": [
+            "cbx_arm_hammer"
+        ], 
+        "iter_00000_step_00011_11_android.widget.ImageView.png": [
+            "lnk_back"
+        ], 
+        "iter_00000_step_00013_47_android.widget.Button.png": [
+            "btn_close"
+        ], 
+        "iter_00000_step_00015_39_android.view.ViewGroup.png": [
+            "lnk_double_duty"
+        ], 
+        "iter_00000_step_00021_11_android.widget.TextView.png": [
+            "lnk_cart"
+        ], 
+        "iter_00000_step_00021_59_android.widget.Button.png": [
+            "lnk_add_to_cart"
+        ], 
+        "iter_00000_step_00026_32_android.widget.ImageButton.png": [
+            "lnk_delete_item"
+        ], 
+        "iter_00000_step_00026_54_android.widget.Button.png": [
+            "btn_proceed_to_checkout"
+        ]
+    }, 
+    "screens": {}
+}

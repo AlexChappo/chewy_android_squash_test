@@ -1,0 +1,778 @@
+{
+    "elems": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00006_0_android.widget.FrameLayout.png": "iter_00000_step_00006_9_android.widget.FrameLayout.png", 
+            "iter_00000_step_00006_10_android.view.ViewGroup.png": "iter_00000_step_00006_6_android.view.ViewGroup.png", 
+            "iter_00000_step_00006_11_android.widget.ImageView.png": "iter_00000_step_00006_11_android.widget.ImageView.png", 
+            "iter_00000_step_00006_12_android.widget.TextView.png": "iter_00000_step_00006_12_android.widget.TextView.png", 
+            "iter_00000_step_00006_13_androidx.recyclerview.widget.RecyclerView.png": "iter_00000_step_00006_13_androidx.recyclerview.widget.RecyclerView.png", 
+            "iter_00000_step_00006_14_android.view.ViewGroup.png": "iter_00000_step_00006_14_android.view.ViewGroup.png", 
+            "iter_00000_step_00006_15_android.widget.RadioButton.png": "iter_00000_step_00006_15_android.widget.RadioButton.png", 
+            "iter_00000_step_00006_16_android.view.ViewGroup.png": "iter_00000_step_00006_16_android.view.ViewGroup.png", 
+            "iter_00000_step_00006_17_android.widget.RadioButton.png": "iter_00000_step_00006_17_android.widget.RadioButton.png", 
+            "iter_00000_step_00006_18_android.view.ViewGroup.png": "iter_00000_step_00006_18_android.view.ViewGroup.png", 
+            "iter_00000_step_00006_19_android.widget.RadioButton.png": "iter_00000_step_00006_19_android.widget.RadioButton.png", 
+            "iter_00000_step_00006_1_android.widget.LinearLayout.png": "iter_00000_step_00006_1_android.widget.LinearLayout.png", 
+            "iter_00000_step_00006_20_android.view.ViewGroup.png": "iter_00000_step_00006_20_android.view.ViewGroup.png", 
+            "iter_00000_step_00006_21_android.widget.RadioButton.png": "iter_00000_step_00006_21_android.widget.RadioButton.png", 
+            "iter_00000_step_00006_22_android.view.ViewGroup.png": "iter_00000_step_00006_22_android.view.ViewGroup.png", 
+            "iter_00000_step_00006_23_android.widget.RadioButton.png": "iter_00000_step_00006_23_android.widget.RadioButton.png", 
+            "iter_00000_step_00006_24_android.view.ViewGroup.png": "iter_00000_step_00006_24_android.view.ViewGroup.png", 
+            "iter_00000_step_00006_25_android.widget.RadioButton.png": "iter_00000_step_00006_25_android.widget.RadioButton.png", 
+            "iter_00000_step_00006_26_android.view.ViewGroup.png": "iter_00000_step_00006_26_android.view.ViewGroup.png", 
+            "iter_00000_step_00006_27_android.widget.RadioButton.png": "iter_00000_step_00006_27_android.widget.RadioButton.png", 
+            "iter_00000_step_00006_2_android.widget.FrameLayout.png": "iter_00000_step_00006_9_android.widget.FrameLayout.png", 
+            "iter_00000_step_00006_3_android.widget.FrameLayout.png": "iter_00000_step_00006_9_android.widget.FrameLayout.png", 
+            "iter_00000_step_00006_4_android.widget.FrameLayout.png": "iter_00000_step_00006_9_android.widget.FrameLayout.png", 
+            "iter_00000_step_00006_5_android.widget.FrameLayout.png": "iter_00000_step_00006_9_android.widget.FrameLayout.png", 
+            "iter_00000_step_00006_6_android.view.ViewGroup.png": "iter_00000_step_00006_6_android.view.ViewGroup.png", 
+            "iter_00000_step_00006_7_android.view.View.png": "iter_00000_step_00006_7_android.view.View.png", 
+            "iter_00000_step_00006_8_android.widget.FrameLayout.png": "iter_00000_step_00006_9_android.widget.FrameLayout.png", 
+            "iter_00000_step_00006_9_android.widget.FrameLayout.png": "iter_00000_step_00006_9_android.widget.FrameLayout.png"
+        }, 
+        "elems_to_infos": {
+            "iter_00000_step_00006_11_android.widget.ImageView.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_11_android.widget.ImageView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.ImageView", 
+                    "hash": "tCkU3Yy8pkWVW52hasKW8w==\n", 
+                    "height": 66, 
+                    "human_hash": "android.widget.ImageView_X0_Y221_W143_H66", 
+                    "tag_name": "android.widget.ImageView", 
+                    "text": "", 
+                    "width": 143, 
+                    "x": 0, 
+                    "y": 221
+                }, 
+                "tags": [
+                    "imageview", 
+                    "image", 
+                    "all_elems", 
+                    "android.widget.imageview"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00006_12_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_12_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "14fv+IQg1mXwLbJ1AcNo7Q==\n", 
+                    "height": 59, 
+                    "human_hash": "android.widget.TextView_X143_Y225_W199_H59", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Sorted By:", 
+                    "width": 199, 
+                    "x": 143, 
+                    "y": 225
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Sorted_By:"
+                ]
+            }, 
+            "iter_00000_step_00006_13_androidx.recyclerview.widget.RecyclerView.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_13_androidx.recyclerview.widget.RecyclerView.png"
+                ], 
+                "elem_info": {
+                    "class": "androidx.recyclerview.widget.RecyclerView", 
+                    "hash": "IdOSk/duxwI8bojFAhZ2ow==\n", 
+                    "height": 1671, 
+                    "human_hash": "androidx.recyclerview.widget.RecyclerView_X143_Y306_W937_H1671", 
+                    "tag_name": "androidx.recyclerview.widget.RecyclerView", 
+                    "text": "Relevance Newest Best Selling Price: Low to High Price: High to Low Avg. Customer Review Most Reviews", 
+                    "width": 937, 
+                    "x": 143, 
+                    "y": 306
+                }, 
+                "tags": [
+                    "androidx.recyclerview.widget.recyclerview", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Relevance_Newest_Best_Selling_Price:_Low_to_High_Price:_High_to_Low_Avg._Customer_Review_Most_Reviews"
+                ]
+            }, 
+            "iter_00000_step_00006_14_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_14_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "WIJaJcx+V4uDSDcoGBN5hA==\n", 
+                    "height": 132, 
+                    "human_hash": "android.view.ViewGroup_X143_Y306_W937_H132", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Relevance", 
+                    "width": 937, 
+                    "x": 143, 
+                    "y": 306
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Relevance"
+                ]
+            }, 
+            "iter_00000_step_00006_15_android.widget.RadioButton.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_15_android.widget.RadioButton.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.RadioButton", 
+                    "hash": "FrLMTqzoicE/4pV272wK8g==\n", 
+                    "height": 132, 
+                    "human_hash": "android.widget.RadioButton_X143_Y306_W287_H132", 
+                    "tag_name": "android.widget.RadioButton", 
+                    "text": "Relevance", 
+                    "width": 287, 
+                    "x": 143, 
+                    "y": 306
+                }, 
+                "tags": [
+                    "radio", 
+                    "radiobutton", 
+                    "android.widget.radiobutton", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Relevance"
+                ]
+            }, 
+            "iter_00000_step_00006_16_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_16_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "Z8xlg9e0cXMLXKVmJrHI2Q==\n", 
+                    "height": 132, 
+                    "human_hash": "android.view.ViewGroup_X143_Y438_W937_H132", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Newest", 
+                    "width": 937, 
+                    "x": 143, 
+                    "y": 438
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Newest"
+                ]
+            }, 
+            "iter_00000_step_00006_17_android.widget.RadioButton.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_17_android.widget.RadioButton.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.RadioButton", 
+                    "hash": "dkmnqcsf9cNy8B0HCMfK3A==\n", 
+                    "height": 132, 
+                    "human_hash": "android.widget.RadioButton_X143_Y438_W235_H132", 
+                    "tag_name": "android.widget.RadioButton", 
+                    "text": "Newest", 
+                    "width": 235, 
+                    "x": 143, 
+                    "y": 438
+                }, 
+                "tags": [
+                    "radio", 
+                    "radiobutton", 
+                    "android.widget.radiobutton", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Newest"
+                ]
+            }, 
+            "iter_00000_step_00006_18_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_18_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "xYYBqQLoI42x4Q7/hi3uBg==\n", 
+                    "height": 132, 
+                    "human_hash": "android.view.ViewGroup_X143_Y570_W937_H132", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Best Selling", 
+                    "width": 937, 
+                    "x": 143, 
+                    "y": 570
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Best_Selling"
+                ]
+            }, 
+            "iter_00000_step_00006_19_android.widget.RadioButton.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_19_android.widget.RadioButton.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.RadioButton", 
+                    "hash": "KaP9UzVfPZmiaaqK4Q9GcQ==\n", 
+                    "height": 132, 
+                    "human_hash": "android.widget.RadioButton_X143_Y570_W317_H132", 
+                    "tag_name": "android.widget.RadioButton", 
+                    "text": "Best Selling", 
+                    "width": 317, 
+                    "x": 143, 
+                    "y": 570
+                }, 
+                "tags": [
+                    "radio", 
+                    "radiobutton", 
+                    "android.widget.radiobutton", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Best_Selling"
+                ]
+            }, 
+            "iter_00000_step_00006_1_android.widget.LinearLayout.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_1_android.widget.LinearLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.LinearLayout", 
+                    "hash": "vjWo03SQuILTkJaXaM2FwQ==\n", 
+                    "height": 1806, 
+                    "human_hash": "android.widget.LinearLayout_X0_Y171_W1080_H1806", 
+                    "tag_name": "android.widget.LinearLayout", 
+                    "text": "Sorted By: Relevance Newest Best Selling Price: Low to High Price: High to Low Avg. Customer Review Most Reviews", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 171
+                }, 
+                "tags": [
+                    "linearlayout", 
+                    "layout", 
+                    "all_elems", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "Sorted_By:_Relevance_Newest_Best_Selling_Price:_Low_to_High_Price:_High_to_Low_Avg._Customer_Review_Most_Reviews"
+                ]
+            }, 
+            "iter_00000_step_00006_20_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_20_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "ZJ3Bh0kVtdgrNkOWY8CWyg==\n", 
+                    "height": 132, 
+                    "human_hash": "android.view.ViewGroup_X143_Y702_W937_H132", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Price: Low to High", 
+                    "width": 937, 
+                    "x": 143, 
+                    "y": 702
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Price:_Low_to_High"
+                ]
+            }, 
+            "iter_00000_step_00006_21_android.widget.RadioButton.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_21_android.widget.RadioButton.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.RadioButton", 
+                    "hash": "74wbZcpgEURR/Hbe/0Txpg==\n", 
+                    "height": 132, 
+                    "human_hash": "android.widget.RadioButton_X143_Y702_W444_H132", 
+                    "tag_name": "android.widget.RadioButton", 
+                    "text": "Price: Low to High", 
+                    "width": 444, 
+                    "x": 143, 
+                    "y": 702
+                }, 
+                "tags": [
+                    "radio", 
+                    "radiobutton", 
+                    "android.widget.radiobutton", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Price:_Low_to_High"
+                ]
+            }, 
+            "iter_00000_step_00006_22_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_22_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "QmUlwstDJ2ennabR6lSMcw==\n", 
+                    "height": 132, 
+                    "human_hash": "android.view.ViewGroup_X143_Y834_W937_H132", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Price: High to Low", 
+                    "width": 937, 
+                    "x": 143, 
+                    "y": 834
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Price:_High_to_Low"
+                ]
+            }, 
+            "iter_00000_step_00006_23_android.widget.RadioButton.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_23_android.widget.RadioButton.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.RadioButton", 
+                    "hash": "WL02HpsHPhKDhB6FGxGnEQ==\n", 
+                    "height": 132, 
+                    "human_hash": "android.widget.RadioButton_X143_Y834_W444_H132", 
+                    "tag_name": "android.widget.RadioButton", 
+                    "text": "Price: High to Low", 
+                    "width": 444, 
+                    "x": 143, 
+                    "y": 834
+                }, 
+                "tags": [
+                    "radio", 
+                    "radiobutton", 
+                    "android.widget.radiobutton", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Price:_High_to_Low"
+                ]
+            }, 
+            "iter_00000_step_00006_24_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_24_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "9C4T8q8n0CKm7AOtg0Xkug==\n", 
+                    "height": 132, 
+                    "human_hash": "android.view.ViewGroup_X143_Y966_W937_H132", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Avg. Customer Review", 
+                    "width": 937, 
+                    "x": 143, 
+                    "y": 966
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Avg._Customer_Review"
+                ]
+            }, 
+            "iter_00000_step_00006_25_android.widget.RadioButton.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_25_android.widget.RadioButton.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.RadioButton", 
+                    "hash": "NbPQ1xAoBhewV39POMeMgw==\n", 
+                    "height": 132, 
+                    "human_hash": "android.widget.RadioButton_X143_Y966_W526_H132", 
+                    "tag_name": "android.widget.RadioButton", 
+                    "text": "Avg. Customer Review", 
+                    "width": 526, 
+                    "x": 143, 
+                    "y": 966
+                }, 
+                "tags": [
+                    "radio", 
+                    "radiobutton", 
+                    "android.widget.radiobutton", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Avg._Customer_Review"
+                ]
+            }, 
+            "iter_00000_step_00006_26_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_26_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "DXwBkPreZTHdeyIUP+bhnw==\n", 
+                    "height": 132, 
+                    "human_hash": "android.view.ViewGroup_X143_Y1098_W937_H132", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Most Reviews", 
+                    "width": 937, 
+                    "x": 143, 
+                    "y": 1098
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Most_Reviews"
+                ]
+            }, 
+            "iter_00000_step_00006_27_android.widget.RadioButton.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_27_android.widget.RadioButton.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.RadioButton", 
+                    "hash": "bJB8teBlG2fciRD6peK2Aw==\n", 
+                    "height": 132, 
+                    "human_hash": "android.widget.RadioButton_X143_Y1098_W360_H132", 
+                    "tag_name": "android.widget.RadioButton", 
+                    "text": "Most Reviews", 
+                    "width": 360, 
+                    "x": 143, 
+                    "y": 1098
+                }, 
+                "tags": [
+                    "radio", 
+                    "radiobutton", 
+                    "android.widget.radiobutton", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Most_Reviews"
+                ]
+            }, 
+            "iter_00000_step_00006_6_android.view.ViewGroup.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00006_6_android.view.ViewGroup.png", 
+                    "iter_00000_step_00006_10_android.view.ViewGroup.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.ViewGroup", 
+                    "hash": "tP553lZE8RHqn8+2rcl1AA==\n", 
+                    "height": 1806, 
+                    "human_hash": "android.view.ViewGroup_X0_Y171_W1080_H1806", 
+                    "tag_name": "android.view.ViewGroup", 
+                    "text": "Sorted By: Relevance Newest Best Selling Price: Low to High Price: High to Low Avg. Customer Review Most Reviews", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 171
+                }, 
+                "tags": [
+                    "all_elems", 
+                    "android.view.viewgroup", 
+                    "views"
+                ], 
+                "text": [
+                    "Sorted_By:_Relevance_Newest_Best_Selling_Price:_Low_to_High_Price:_High_to_Low_Avg._Customer_Review_Most_Reviews"
+                ]
+            }, 
+            "iter_00000_step_00006_7_android.view.View.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_7_android.view.View.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.View", 
+                    "hash": "UUNPn8SQILJbjNY4ddp1Gw==\n", 
+                    "height": 1806, 
+                    "human_hash": "android.view.View_X0_Y171_W1080_H1806", 
+                    "tag_name": "android.view.View", 
+                    "text": "", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 171
+                }, 
+                "tags": [
+                    "android.view.view", 
+                    "all_elems", 
+                    "view"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00006_9_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 7, 
+                "dupes": [
+                    "iter_00000_step_00006_9_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00006_8_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00006_5_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00006_4_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00006_3_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00006_2_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00006_0_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "ohoQy38snxBdfRWPwNpydw==\n", 
+                    "height": 1806, 
+                    "human_hash": "android.widget.FrameLayout_X0_Y171_W1080_H1806", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "Sorted By: Relevance Newest Best Selling Price: Low to High Price: High to Low Avg. Customer Review Most Reviews", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 171
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    "Sorted_By:_Relevance_Newest_Best_Selling_Price:_Low_to_High_Price:_High_to_Low_Avg._Customer_Review_Most_Reviews"
+                ]
+            }
+        }, 
+        "sorted_elems": [
+            "iter_00000_step_00006_6_android.view.ViewGroup.png", 
+            "iter_00000_step_00006_1_android.widget.LinearLayout.png", 
+            "iter_00000_step_00006_7_android.view.View.png", 
+            "iter_00000_step_00006_9_android.widget.FrameLayout.png", 
+            "iter_00000_step_00006_13_androidx.recyclerview.widget.RecyclerView.png", 
+            "iter_00000_step_00006_22_android.view.ViewGroup.png", 
+            "iter_00000_step_00006_24_android.view.ViewGroup.png", 
+            "iter_00000_step_00006_26_android.view.ViewGroup.png", 
+            "iter_00000_step_00006_16_android.view.ViewGroup.png", 
+            "iter_00000_step_00006_18_android.view.ViewGroup.png", 
+            "iter_00000_step_00006_20_android.view.ViewGroup.png", 
+            "iter_00000_step_00006_14_android.view.ViewGroup.png", 
+            "iter_00000_step_00006_25_android.widget.RadioButton.png", 
+            "iter_00000_step_00006_21_android.widget.RadioButton.png", 
+            "iter_00000_step_00006_23_android.widget.RadioButton.png", 
+            "iter_00000_step_00006_27_android.widget.RadioButton.png", 
+            "iter_00000_step_00006_19_android.widget.RadioButton.png", 
+            "iter_00000_step_00006_15_android.widget.RadioButton.png", 
+            "iter_00000_step_00006_17_android.widget.RadioButton.png", 
+            "iter_00000_step_00006_12_android.widget.TextView.png", 
+            "iter_00000_step_00006_11_android.widget.ImageView.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00006_11_android.widget.ImageView.png": [
+                "iter_00000_step_00006_11_android.widget.ImageView.png"
+            ], 
+            "iter_00000_step_00006_12_android.widget.TextView.png": [
+                "iter_00000_step_00006_12_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00006_13_androidx.recyclerview.widget.RecyclerView.png": [
+                "iter_00000_step_00006_13_androidx.recyclerview.widget.RecyclerView.png"
+            ], 
+            "iter_00000_step_00006_14_android.view.ViewGroup.png": [
+                "iter_00000_step_00006_14_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00006_15_android.widget.RadioButton.png": [
+                "iter_00000_step_00006_15_android.widget.RadioButton.png"
+            ], 
+            "iter_00000_step_00006_16_android.view.ViewGroup.png": [
+                "iter_00000_step_00006_16_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00006_17_android.widget.RadioButton.png": [
+                "iter_00000_step_00006_17_android.widget.RadioButton.png"
+            ], 
+            "iter_00000_step_00006_18_android.view.ViewGroup.png": [
+                "iter_00000_step_00006_18_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00006_19_android.widget.RadioButton.png": [
+                "iter_00000_step_00006_19_android.widget.RadioButton.png"
+            ], 
+            "iter_00000_step_00006_1_android.widget.LinearLayout.png": [
+                "iter_00000_step_00006_1_android.widget.LinearLayout.png"
+            ], 
+            "iter_00000_step_00006_20_android.view.ViewGroup.png": [
+                "iter_00000_step_00006_20_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00006_21_android.widget.RadioButton.png": [
+                "iter_00000_step_00006_21_android.widget.RadioButton.png"
+            ], 
+            "iter_00000_step_00006_22_android.view.ViewGroup.png": [
+                "iter_00000_step_00006_22_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00006_23_android.widget.RadioButton.png": [
+                "iter_00000_step_00006_23_android.widget.RadioButton.png"
+            ], 
+            "iter_00000_step_00006_24_android.view.ViewGroup.png": [
+                "iter_00000_step_00006_24_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00006_25_android.widget.RadioButton.png": [
+                "iter_00000_step_00006_25_android.widget.RadioButton.png"
+            ], 
+            "iter_00000_step_00006_26_android.view.ViewGroup.png": [
+                "iter_00000_step_00006_26_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00006_27_android.widget.RadioButton.png": [
+                "iter_00000_step_00006_27_android.widget.RadioButton.png"
+            ], 
+            "iter_00000_step_00006_6_android.view.ViewGroup.png": [
+                "iter_00000_step_00006_6_android.view.ViewGroup.png", 
+                "iter_00000_step_00006_10_android.view.ViewGroup.png"
+            ], 
+            "iter_00000_step_00006_7_android.view.View.png": [
+                "iter_00000_step_00006_7_android.view.View.png"
+            ], 
+            "iter_00000_step_00006_9_android.widget.FrameLayout.png": [
+                "iter_00000_step_00006_9_android.widget.FrameLayout.png", 
+                "iter_00000_step_00006_8_android.widget.FrameLayout.png", 
+                "iter_00000_step_00006_5_android.widget.FrameLayout.png", 
+                "iter_00000_step_00006_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00006_3_android.widget.FrameLayout.png", 
+                "iter_00000_step_00006_2_android.widget.FrameLayout.png", 
+                "iter_00000_step_00006_0_android.widget.FrameLayout.png"
+            ]
+        }
+    }, 
+    "screens": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00006_screenshot.png": "iter_00000_step_00006_screenshot.png"
+        }, 
+        "screens_to_elems": {
+            "iter_00000_step_00006_screenshot.png": [
+                "iter_00000_step_00006_9_android.widget.FrameLayout.png", 
+                "iter_00000_step_00006_1_android.widget.LinearLayout.png", 
+                "iter_00000_step_00006_9_android.widget.FrameLayout.png", 
+                "iter_00000_step_00006_9_android.widget.FrameLayout.png", 
+                "iter_00000_step_00006_9_android.widget.FrameLayout.png", 
+                "iter_00000_step_00006_9_android.widget.FrameLayout.png", 
+                "iter_00000_step_00006_6_android.view.ViewGroup.png", 
+                "iter_00000_step_00006_7_android.view.View.png", 
+                "iter_00000_step_00006_9_android.widget.FrameLayout.png", 
+                "iter_00000_step_00006_9_android.widget.FrameLayout.png", 
+                "iter_00000_step_00006_6_android.view.ViewGroup.png", 
+                "iter_00000_step_00006_11_android.widget.ImageView.png", 
+                "iter_00000_step_00006_12_android.widget.TextView.png", 
+                "iter_00000_step_00006_13_androidx.recyclerview.widget.RecyclerView.png", 
+                "iter_00000_step_00006_14_android.view.ViewGroup.png", 
+                "iter_00000_step_00006_15_android.widget.RadioButton.png", 
+                "iter_00000_step_00006_16_android.view.ViewGroup.png", 
+                "iter_00000_step_00006_17_android.widget.RadioButton.png", 
+                "iter_00000_step_00006_18_android.view.ViewGroup.png", 
+                "iter_00000_step_00006_19_android.widget.RadioButton.png", 
+                "iter_00000_step_00006_20_android.view.ViewGroup.png", 
+                "iter_00000_step_00006_21_android.widget.RadioButton.png", 
+                "iter_00000_step_00006_22_android.view.ViewGroup.png", 
+                "iter_00000_step_00006_23_android.widget.RadioButton.png", 
+                "iter_00000_step_00006_24_android.view.ViewGroup.png", 
+                "iter_00000_step_00006_25_android.widget.RadioButton.png", 
+                "iter_00000_step_00006_26_android.view.ViewGroup.png", 
+                "iter_00000_step_00006_27_android.widget.RadioButton.png"
+            ]
+        }, 
+        "screens_to_infos": {
+            "iter_00000_step_00006_screenshot.png": {
+                "dupe_count": [
+                    1
+                ], 
+                "dupes": [
+                    "iter_00000_step_00006_screenshot.png"
+                ], 
+                "tags": [
+                    "android.widget.framelayout", 
+                    "android.widget.imageview", 
+                    "android.widget.radiobutton", 
+                    "radiobutton", 
+                    "android.view.viewgroup", 
+                    "androidx.recyclerview.widget.recyclerview", 
+                    "framelayout", 
+                    "android.widget.textview", 
+                    "all_screens", 
+                    "imageview", 
+                    "android.view.view", 
+                    "linearlayout", 
+                    "textview", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "", 
+                    "price:_high_to_low", 
+                    "newest", 
+                    "sorted_by:_relevance_newest_best_selling_price:_low_to_high_price:_high_to_low_avg._customer_review_most_reviews", 
+                    "relevance_newest_best_selling_price:_low_to_high_price:_high_to_low_avg._customer_review_most_reviews", 
+                    "sorted_by:", 
+                    "price:_low_to_high", 
+                    "relevance", 
+                    "most_reviews", 
+                    "avg._customer_review", 
+                    "best_selling"
+                ]
+            }
+        }, 
+        "sorted_screens": [
+            "iter_00000_step_00006_screenshot.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00006_screenshot.png": [
+                "iter_00000_step_00006_screenshot.png"
+            ]
+        }
+    }
+}

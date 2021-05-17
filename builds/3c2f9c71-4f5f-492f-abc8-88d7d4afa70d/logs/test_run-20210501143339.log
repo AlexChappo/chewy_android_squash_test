@@ -1,0 +1,97 @@
+2021-05-01 10:33:39,444 INFO     test_ai_mod.carbon_tasks.regress_app_task -- Logging crawl output to /Users/bot/test_ai/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/3c2f9c71-4f5f-492f-abc8-88d7d4afa70d/logs/test_run-20210501143339.log
+2021-05-01 10:33:39,444 INFO     test_ai_mod.carbon_tasks.regress_app_task -- regressing app: 7335e72d-27ee-428c-b81e-dde278a19ae3, build: 3c2f9c71-4f5f-492f-abc8-88d7d4afa70d
+2021-05-01 10:33:39,479 INFO     werkzeug -- 127.0.0.1 - - [01/May/2021 10:33:39] "[37mGET /api/v1/c/testai/users HTTP/1.1[0m" 200 -
+2021-05-01 10:33:39,484 INFO     werkzeug -- 127.0.0.1 - - [01/May/2021 10:33:39] "[37mGET /api/v2/status HTTP/1.1[0m" 200 -
+2021-05-01 10:33:39,507 INFO     werkzeug -- 127.0.0.1 - - [01/May/2021 10:33:39] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+2021-05-01 10:33:39,532 INFO     werkzeug -- 127.0.0.1 - - [01/May/2021 10:33:39] "[37mGET /api/v1/c/testai/apps/android/7335e72d-27ee-428c-b81e-dde278a19ae3/test_runs?expand_builds=true HTTP/1.1[0m" 200 -
+2021-05-01 10:33:39,577 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 7335e72d-27ee-428c-b81e-dde278a19ae3, BUILD_ID: 3c2f9c71-4f5f-492f-abc8-88d7d4afa70d
+2021-05-01 10:33:39,578 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 7335e72d-27ee-428c-b81e-dde278a19ae3, BUILD_ID: 3c2f9c71-4f5f-492f-abc8-88d7d4afa70d
+2021-05-01 10:33:39,579 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 7335e72d-27ee-428c-b81e-dde278a19ae3, BUILD_ID: 3c2f9c71-4f5f-492f-abc8-88d7d4afa70d
+2021-05-01 10:33:39,580 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 7335e72d-27ee-428c-b81e-dde278a19ae3, BUILD_ID: 3c2f9c71-4f5f-492f-abc8-88d7d4afa70d
+2021-05-01 10:33:39,580 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 7335e72d-27ee-428c-b81e-dde278a19ae3, BUILD_ID: 3c2f9c71-4f5f-492f-abc8-88d7d4afa70d
+2021-05-01 10:33:39,586 INFO     werkzeug -- 127.0.0.1 - - [01/May/2021 10:33:39] "[37mGET /api/v1/c/testai/apps/android/7335e72d-27ee-428c-b81e-dde278a19ae3/test_runs/20210430172236?expand_builds=true HTTP/1.1[0m" 200 -
+2021-05-01 10:33:39,589 INFO     werkzeug -- 127.0.0.1 - - [01/May/2021 10:33:39] "[37mGET /api/v1/c/testai/apps/android/7335e72d-27ee-428c-b81e-dde278a19ae3/test_runs/20210430181930?expand_builds=true HTTP/1.1[0m" 200 -
+2021-05-01 10:33:39,589 INFO     werkzeug -- 127.0.0.1 - - [01/May/2021 10:33:39] "[37mGET /api/v1/c/testai/apps/android/7335e72d-27ee-428c-b81e-dde278a19ae3/test_runs/20210430172904?expand_builds=true HTTP/1.1[0m" 200 -
+2021-05-01 10:33:39,590 INFO     werkzeug -- 127.0.0.1 - - [01/May/2021 10:33:39] "[37mGET /api/v1/c/testai/apps/android/7335e72d-27ee-428c-b81e-dde278a19ae3/test_runs/20210430182735?expand_builds=true HTTP/1.1[0m" 200 -
+2021-05-01 10:33:39,591 INFO     werkzeug -- 127.0.0.1 - - [01/May/2021 10:33:39] "[37mGET /api/v1/c/testai/apps/android/7335e72d-27ee-428c-b81e-dde278a19ae3/test_runs/20210430183009?expand_builds=true HTTP/1.1[0m" 200 -
+2021-05-01 10:33:39,644 INFO     test_ai_mod.carbon_tasks.regress_app_task -- max_steps: 10
+2021-05-01 10:33:39,645 INFO     test_ai_mod.carbon_tasks.regress_app_task -- rand_seed: 1619879577
+2021-05-01 10:33:39,645 INFO     test_ai_mod.carbon_tasks.regress_app_task -- test_wildcard: *
+2021-05-01 10:33:39,645 INFO     test_ai_mod.carbon_tasks.regress_app_task -- package: com.chewy.android
+2021-05-01 10:33:39,646 INFO     test_ai_mod.carbon_tasks.regress_app_task -- eyes_api_key: None
+2021-05-01 10:33:39,646 INFO     test_ai_mod.carbon_tasks.regress_app_task -- no_reinstall: False
+2021-05-01 10:33:39,646 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 7335e72d-27ee-428c-b81e-dde278a19ae3, BUILD_ID: 3c2f9c71-4f5f-492f-abc8-88d7d4afa70d
+2021-05-01 10:33:39,648 INFO     test_ai_mod.carbon_test_case.test_filtering -- Found test: dog food
+2021-05-01 10:33:39,648 INFO     test_ai_mod.carbon_test_case.test_filtering -- Found test: Search for Cat Litter
+2021-05-01 10:33:39,648 INFO     test_ai_mod.carbon_test_case.test_filtering -- Found test: Order Cat Food
+2021-05-01 10:33:39,648 INFO     test_ai_mod.carbon_test_case.test_filtering -- Found test: Sign In
+2021-05-01 10:33:39,648 INFO     test_ai_mod.carbon_test_case.carbon_tests -- Found matching test: Search for Cat Litter
+2021-05-01 10:33:39,650 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 7335e72d-27ee-428c-b81e-dde278a19ae3, BUILD_ID: 3c2f9c71-4f5f-492f-abc8-88d7d4afa70d
+2021-05-01 10:33:39,651 INFO     test_ai_mod.carbon_tasks.regress_app_task -- Remote host address: http://localhost:8080
+2021-05-01 10:33:39,806 INFO     test_ai_mod.carbon_tasks.regress_app_task -- running regress for test case: Search for Cat Litter
+2021-05-01 10:33:39,806 INFO     test_ai_mod.carbon_tasks.regress_app_task -- steps required for test: 8
+2021-05-01 10:33:39,806 INFO     test_ai_mod.carbon_tasks.regress_app_task -- effective_max_steps: 8
+2021-05-01 10:33:39,806 INFO     test_ai_mod.carbon_explore.explore -- **************************************************
+2021-05-01 10:33:39,807 INFO     test_ai_mod.carbon_explore.explore -- **************************************************
+2021-05-01 10:33:39,807 INFO     test_ai_mod.carbon_explore.explore -- *                                                *
+2021-05-01 10:33:39,807 INFO     test_ai_mod.carbon_explore.explore -- *                   BRAIN                    *
+2021-05-01 10:33:39,807 INFO     test_ai_mod.carbon_explore.explore -- *                                                *
+2021-05-01 10:33:39,807 INFO     test_ai_mod.carbon_explore.explore -- **************************************************
+2021-05-01 10:33:39,807 INFO     test_ai_mod.carbon_explore.explore -- **************************************************
+2021-05-01 10:33:39,807 INFO     test_ai_mod.carbon_initialization.initialization -- Random seed: 1619879577
+2021-05-01 10:33:39,808 INFO     test_ai_mod.carbon_initialization.initialization -- ````````````````````````````````````````````````````````````````````````````````
+2021-05-01 10:33:39,808 INFO     test_ai_mod.carbon_initialization.initialization --                   PACKAGE: com.chewy.android
+2021-05-01 10:33:39,808 INFO     test_ai_mod.carbon_initialization.initialization -- ````````````````````````````````````````````````````````````````````````````````
+2021-05-01 10:33:39,808 INFO     test_ai_mod.carbon_initialization.initialization -- platform: ANDROID
+2021-05-01 10:33:39,809 INFO     test_ai_mod.carbon_initialization.initialization -- using crawl_directory: /Users/bot/test_ai/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/builds/3c2f9c71-4f5f-492f-abc8-88d7d4afa70d/test_runs/20210501103339
+2021-05-01 10:33:39,809 INFO     test_ai_mod.carbon_botio.bot_io -- retrieving bot IO for app: 7335e72d-27ee-428c-b81e-dde278a19ae3
+2021-05-01 10:33:39,809 INFO     test_ai_mod.carbon_botio.bot_io -- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2021-05-01 10:33:39,809 INFO     test_ai_mod.carbon_botio.bot_io -- botio_filepath: /Users/bot/test_ai/apps/7335e72d-27ee-428c-b81e-dde278a19ae3/lkg/botio.json
+2021-05-01 10:33:39,809 INFO     test_ai_mod.carbon_botio.bot_io -- use_snapshot: False
+2021-05-01 10:33:39,809 INFO     test_ai_mod.carbon_botio.bot_io -- no botIO found for app: 7335e72d-27ee-428c-b81e-dde278a19ae3
+2021-05-01 10:33:39,810 INFO     test_ai_mod.carbon_utils.carbon_data -- loading models from LKG dir
+2021-05-01 10:33:39,810 INFO     test_ai_mod.carbon_utils.carbon_data -- loading models from LKG dir
+2021-05-01 10:33:39,810 INFO     test_ai_mod.carbon_utils.simulator_tools -- preparing clean iteration state...
+2021-05-01 10:33:39,810 INFO     test_ai_mod.carbon_automation.automator -- Creating Automator Singleton
+2021-05-01 10:33:39,811 INFO     test_ai_mod.carbon_automation.automator -- Using automator over http as execution platform
+2021-05-01 10:33:44,983 INFO     werkzeug -- 127.0.0.1 - - [01/May/2021 10:33:44] "[37mGET /api/v2/status HTTP/1.1[0m" 200 -
+2021-05-01 10:33:59,982 INFO     werkzeug -- 127.0.0.1 - - [01/May/2021 10:33:59] "[37mGET /api/v2/status HTTP/1.1[0m" 200 -
+2021-05-01 10:34:14,987 INFO     werkzeug -- 127.0.0.1 - - [01/May/2021 10:34:14] "[37mGET /api/v2/status HTTP/1.1[0m" 200 -
+2021-05-01 10:34:20,177 ERROR    test_ai_mod.carbon_explore.explore -- unexpected error
+Traceback (most recent call last):
+  File "test_ai_mod/carbon_explore/explore.py", line 318, in explore.perform_walk
+  File "test_ai_mod/carbon_initialization/initialization.py", line 188, in initialization.initialize_run
+  File "test_ai_mod/carbon_utils/simulator_tools.py", line 193, in simulator_tools.clean_iteration_state
+  File "test_ai_mod/carbon_automation/driver_factory.py", line 166, in driver_factory.DriverFactory.create_android_driver
+  File "test_ai_mod/carbon_automation/driver_factory.py", line 177, in driver_factory.DriverFactory._create
+  File "test_ai_mod/carbon_automation/driver.py", line 37, in driver.Driver.__init__
+  File "test_ai_mod/carbon_automation/sessions/http/http_session_adapter_factory.py", line 63, in http_session_adapter_factory.HttpSessionAdapterFactory.get_session
+  File "test_ai_mod/carbon_automation/sessions/http/http_client.py", line 70, in http_client.create_session
+AutomatorSessionError: Error creating session, 500, Command "adb shell dumpsys window" exited with code 1 and output: adb: device offline
+2021-05-01 10:34:20,177 ERROR    test_ai_mod.carbon_test_case.test_utils -- *****************************************************************************************************************************************************
+2021-05-01 10:34:20,178 ERROR    test_ai_mod.carbon_test_case.test_utils -- * TEST FAILURE: Unexpected error Error creating session, 500, Command "adb shell dumpsys window" exited with code 1 and output: adb: device offline *
+2021-05-01 10:34:20,178 ERROR    test_ai_mod.carbon_test_case.test_utils -- *****************************************************************************************************************************************************
+2021-05-01 10:34:20,182 INFO     test_ai_mod.carbon_explore.explore -- performing post-walk cleanup
+2021-05-01 10:34:20,183 ERROR    test_ai_mod.carbon_explore.explore -- Error terminating app: com.chewy.android
+Traceback (most recent call last):
+  File "test_ai_mod/carbon_explore/explore.py", line 360, in explore.perform_walk
+AttributeError: 'NoneType' object has no attribute 'terminate_app'
+2021-05-01 10:34:20,184 INFO     test_ai_mod.carbon_utils.simulator_tools -- performing post-test cleanup
+2021-05-01 10:34:20,184 INFO     test_ai_mod.carbon_utils.simulator_tools -- calling driver.quit
+2021-05-01 10:34:20,184 INFO     test_ai_mod.carbon_utils.simulator_tools -- issue quitting driver: 'NoneType' object has no attribute 'quit'
+2021-05-01 10:34:20,187 ERROR    test_ai_mod.carbon_tasks.regress_app_task -- problem encountered executing test
+Traceback (most recent call last):
+  File "test_ai_mod/carbon_tasks/regress_app_task.py", line 170, in regress_app_task._regress_app
+  File "test_ai_mod/carbon_utils/performance_profiler.py", line 15, in performance_profiler.profile_method.decorator.wrapper
+  File "test_ai_mod/carbon_utils/performance_profiler.py", line 12, in performance_profiler.profile_method.decorator.wrapper
+  File "test_ai_mod/carbon_explore/explore.py", line 355, in explore.perform_walk
+  File "test_ai_mod/carbon_explore/explore.py", line 318, in explore.perform_walk
+  File "test_ai_mod/carbon_initialization/initialization.py", line 188, in initialization.initialize_run
+  File "test_ai_mod/carbon_utils/simulator_tools.py", line 193, in simulator_tools.clean_iteration_state
+  File "test_ai_mod/carbon_automation/driver_factory.py", line 166, in driver_factory.DriverFactory.create_android_driver
+  File "test_ai_mod/carbon_automation/driver_factory.py", line 177, in driver_factory.DriverFactory._create
+  File "test_ai_mod/carbon_automation/driver.py", line 37, in driver.Driver.__init__
+  File "test_ai_mod/carbon_automation/sessions/http/http_session_adapter_factory.py", line 63, in http_session_adapter_factory.HttpSessionAdapterFactory.get_session
+  File "test_ai_mod/carbon_automation/sessions/http/http_client.py", line 70, in http_client.create_session
+AutomatorSessionError: Error creating session, 500, Command "adb shell dumpsys window" exited with code 1 and output: adb: device offline
+2021-05-01 10:34:20,998 INFO     test_ai_mod.carbon_tasks.regress_app_task -- Removing threaded log file handler for test run.

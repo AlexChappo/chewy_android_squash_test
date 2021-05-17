@@ -1,0 +1,23 @@
+{
+    "elems": {
+        "iter_00000_step_00000_10_android.widget.ImageButton.png": {
+            "lnk_delete_item": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00000_13_android.widget.TextView.png": {
+            "lnk_cart": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }
+    }, 
+    "screens": {}
+}

@@ -1,0 +1,36 @@
+{
+    "elems": {
+        "iter_00000_step_00003_39_android.widget.TextView.png": [
+            "lnk_variety_packs"
+        ], 
+        "iter_00000_step_00003_83_android.widget.Button.png": [
+            "btn_filter"
+        ], 
+        "iter_00000_step_00005_75_android.widget.Button.png": [
+            "btn_filter"
+        ], 
+        "iter_00000_step_00015_32_android.view.ViewGroup.png": [], 
+        "iter_00000_step_00015_33_android.widget.CheckBox.png": [
+            "cbx_blue_wilderness"
+        ], 
+        "iter_00000_step_00018_11_android.widget.ImageView.png": [
+            "btn_back"
+        ], 
+        "iter_00000_step_00020_47_android.widget.Button.png": [
+            "btn_close"
+        ], 
+        "iter_00000_step_00022_12_android.widget.ImageButton.png": [
+            "lnk_delete_item"
+        ], 
+        "iter_00000_step_00022_48_android.widget.ImageView.png": [
+            "img_blue_buffalo"
+        ], 
+        "iter_00000_step_00023_11_android.widget.TextView.png": [
+            "lnk_cart"
+        ], 
+        "iter_00000_step_00023_43_android.widget.Button.png": [
+            "lnk_share"
+        ]
+    }, 
+    "screens": {}
+}
